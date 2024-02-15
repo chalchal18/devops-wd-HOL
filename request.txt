@@ -1,0 +1,12 @@
+Hello Collaborator,
+
+I am working on a project in this repository and I would really appreciate your help with a specific task.
+
+Task:
+ 1. clone this repository to your machine.
+ 2. add a new file or modify exsiting file .
+ 3. create a pull request and I will aprove it.
+
+Please Let me know if you have any questions about the task or need any further information.
+
+
